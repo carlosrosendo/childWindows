@@ -1,1 +1,2 @@
 # childWindows
+This Python script shows how to handle changing tabs or windows on selenium using python PyCharm. It shows how to use handles by saving them in an object which will store your windows by index. You can then call that object and state the index(window name) that you would like to. It demonstrates changing window, grading, text, closing the window and asserting the text is what we expected. 
